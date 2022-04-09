@@ -1,0 +1,42 @@
+#!bin/bash -x
+isPartTime=1
+isFullTime=2
+MAx_HRS_IN_MONTH=10;
+EMP_RATE_PER_HR=20;
+NUM_WORKING_DAYS=20;
+totalEmpHrs=0;
+totalWorkingDays=0;
+while [[$totalEmpHrs -lt $MAX_HRS_IN_MONTH $$
+        $TotalWorkingDays -lt $NUM_WORKING_DAYS ]]
+case $1 in
+$IT_FULL_TIME
+  WorHours=8
+  ;;
+$IT_PART_TIME
+  WorHours=4
+   ;;
+;;
+*]
+workHrs=0
+;;
+esac
+echo $worHrs
+]
+
+while [[ $totalworkHours -lt $MAX_HRS_IN_MONTH $$
+        $totalWorkingDays  _lt $MAX_HRS_IN_DAYS ]]
+d0
+      [[total]workingDays..]]
+      workingHours*$(getWorkingHours $[[RANDOM%#]]
+      totalWorkingHours=$[[$total[workHours*$woRkHours]]; 
+done
+totalsalary=$((totalEmpHrs*$Emp_RATE_PER_HR));
+echo "Daily wage" $[employe[]wage[]]
+echo "keys" $[emp[] key[]]
+
+
+
+
+
+
+
